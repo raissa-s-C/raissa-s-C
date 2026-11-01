@@ -1,16 +1,23 @@
-## Hi there 👋
+# Raissa Clara
 
-<!--
-**raissa-s-C/raissa-s-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia da Informação na UFMS, com interesse em desenvolvimento front-end e criação de interfaces web.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git e GitHub
+
+## Atualmente
+
+- Aprofundando meus conhecimentos em desenvolvimento web.
+- Desenvolvendo projetos pessoais para aprimorar minhas habilidades.
+- Construindo meu portfólio e buscando minha primeira oportunidade na área de TI.
+
+## Projetos
+
+**[Estatística em Jogo](https://github.com/raissa-s-C/estatistica-em-jogo)**
+
+Plataforma de estudos com aulas e quizzes interativos, desenvolvida com JavaScript, HTML e CSS.
