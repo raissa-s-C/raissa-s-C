@@ -17,7 +17,3 @@ Estudante de Tecnologia da Informação na UFMS, com interesse em desenvolviment
 - Construindo meu portfólio e buscando minha primeira oportunidade na área de TI.
 
 ## Projetos
-
-**[Estatística em Jogo](https://github.com/raissa-s-C/estatistica-em-jogo)**
-
-Plataforma de estudos com aulas e quizzes interativos, desenvolvida com JavaScript, HTML e CSS.
